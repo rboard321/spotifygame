@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --open --mode development",
     "build": "webpack --mode production"
   },
-  "author": "Will Marttala",
+  "author": "Ricky Board",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.9",
